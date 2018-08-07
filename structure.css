@@ -1,0 +1,11 @@
+ /* Container holding the image and the text */
+ .rowTwo {
+     margin-top:25px;
+     justify-content: center;
+     align-item: center;
+     display: flex;
+     align-content: center;
+
+ }
+
+
