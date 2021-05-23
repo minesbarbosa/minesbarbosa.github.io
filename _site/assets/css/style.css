@@ -53,12 +53,14 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
   margin-left: auto;
 }
 
+
 @media (min-width: 1068px) and (max-width: 1400px) { 
  .post-sidebar{
     margin-top: 15px;
     border:1px solid #DDD;
     padding: 5px;
   }
+ 
 }
 @media (min-width: 750px) and (max-width: 1060px) { 
  .post-sidebar{
@@ -87,6 +89,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
     margin-top: 15px;
     border:1px solid #DDD;
     padding: 5px;
+  
+
  }
 .form-group{
     
@@ -122,6 +126,7 @@ float: right;
     color:#55CBD2;
 
 }
+
 
 .title-text{
   font-family: 'Raleway', sans-serif;  
@@ -221,7 +226,7 @@ address {
 * ==========================================================================
 */
 .active{
-  background: #a2855f !important;
+  background:#74B9B9 !important;
   color: white;
 }
 .navbar {
