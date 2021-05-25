@@ -277,7 +277,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #6a4f1f;
+  background-color: #fff;
 }
 input,
 button,
@@ -5416,8 +5416,9 @@ button.close {
 }
 .carousel-inner {
   position: relative;
-  width: 100%;
-  overflow: hidden;
+  height: 100%;
+  overflow: visible;
+  scrollbar-color: black black;
 }
 .carousel-inner > .item {
   position: relative;
