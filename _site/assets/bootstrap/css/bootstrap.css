@@ -5416,9 +5416,8 @@ button.close {
 }
 .carousel-inner {
   position: relative;
-  height: 100%;
-  overflow: visible;
-  scrollbar-color: black black;
+  width: 100%;
+  overflow: hidden;
 }
 .carousel-inner > .item {
   position: relative;
